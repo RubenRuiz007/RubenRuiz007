@@ -4,11 +4,11 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)** en el **IES Alixar
 
 ## Sobre mí
 
-- :computer: Estudiante de 2º de Grado Superior en Desarrollo de Aplicaciones Web
-- :briefcase: Prácticas en la empresa **CodigoJS**, realizando proyectos reales
-- :hammer_and_wrench: Backend con Java y PHP
-- :art: Frontend con HTML, CSS y JavaScript
-- :globe_with_meridians: Mi web: [rubenruiz007.github.io](https://rubenruiz007.github.io)
+- Estudiante de 2º de Grado Superior en Desarrollo de Aplicaciones Web
+- Prácticas en la empresa **CodigoJS**, realizando proyectos reales
+- Backend con Java y PHP
+- Frontend con HTML, CSS y JavaScript
+- Mi web: [rubenruiz007.github.io](https://rubenruiz007.github.io)
 
 ## Tecnologías
 
