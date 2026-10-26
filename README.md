@@ -1,4 +1,4 @@
-# Hola, soy Rubén :wave:
+# Hola, soy Rubén:
 
 Estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)** en el **IES Alixar**. Motivado, responsable y con facilidad para adaptarme a nuevos entornos. Busco una primera oportunidad para aplicar mis conocimientos y seguir desarrollándome profesionalmente.
 
